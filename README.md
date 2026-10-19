@@ -18,6 +18,8 @@
 <p align="center">
   <a href="https://github.com/xyz-rafael-xyz/roguard-child-safety"><strong>Explore RoGuard ↗</strong></a>
   &nbsp; · &nbsp;
+  <a href="https://pypi.org/project/roguard-child-safety/"><strong>Install on PyPI ↗</strong></a>
+  &nbsp; · &nbsp;
   <a href="https://github.com/xyz-rafael-xyz/roguard-child-safety#install-and-try-it">Quick start</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/xyz-rafael-xyz/roguard-child-safety/blob/main/docs/V9_MODEL.md">Model &amp; API</a>
