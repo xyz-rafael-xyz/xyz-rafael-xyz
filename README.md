@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://pepy.tech/project/roguard-child-safety"><img alt="Total PyPI downloads" src="https://static.pepy.tech/badge/roguard-child-safety"></a>
   <a href="https://pypi.org/project/roguard-child-safety/"><img alt="Latest stable PyPI version" src="https://img.shields.io/pypi/v/roguard-child-safety?style=flat-square&amp;label=stable&amp;color=9de8cd&amp;labelColor=182635"></a>
   <a href="https://github.com/xyz-rafael-xyz/roguard-child-safety/blob/main/docs/V9_MODEL.md"><img alt="Romanian and Ukrainian" src="https://img.shields.io/badge/languages-RO%20%2B%20UK-c2b0ff?style=flat-square&amp;labelColor=182635"></a>
   <a href="https://github.com/xyz-rafael-xyz/roguard-child-safety/blob/main/docs/V9_MODEL.md"><img alt="Inference runs locally" src="https://img.shields.io/badge/inference-local-ffc58f?style=flat-square&amp;labelColor=182635"></a>
