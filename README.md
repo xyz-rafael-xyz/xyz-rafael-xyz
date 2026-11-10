@@ -29,16 +29,12 @@
 
 <p align="center">
   <a href="https://github.com/xyz-rafael-xyz/roguard-child-safety">
-    <img width="960" src="https://raw.githubusercontent.com/xyz-rafael-xyz/roguard-child-safety/main/media/roguard-v10-reel-30fps.webp" alt="RoGuard 10.0 orange-and-black animated reel: the reused Gemma 4 body, four RBF heads, a guarded review decision, and recorded synthetic comparisons.">
+    <img width="640" src="https://raw.githubusercontent.com/xyz-rafael-xyz/roguard-child-safety/main/media/roguard-v10-reel-mp4-loop.gif" alt="RoGuard 10.0 orange-and-black animated reel: the reused Gemma 4 body, four RBF heads, a guarded review decision, and recorded synthetic comparisons.">
   </a>
 </p>
 
 <p align="center">
-  <sub>45 seconds · looping v10 visual summary based on fictional messages</sub><br>
-  <a href="https://github.com/xyz-rafael-xyz/roguard-child-safety/releases/download/v10.0.0/roguard-v10-reel.mp4">Full video with audio</a>
-  &nbsp; · &nbsp;
-  <a href="https://raw.githubusercontent.com/xyz-rafael-xyz/roguard-child-safety/main/media/roguard-v10-reel-poster.png">Still image</a>
-  &nbsp; · &nbsp;
+  <sub>45 seconds · GIF loop made from the original 30 fps MP4</sub><br>
   <a href="https://github.com/xyz-rafael-xyz/roguard-child-safety/blob/main/docs/V10_REEL.md">Reel notes &amp; evidence</a>
 </p>
 
