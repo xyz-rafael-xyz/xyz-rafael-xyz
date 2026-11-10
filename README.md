@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/xyz-rafael-xyz/roguard-child-safety">
-    <img width="960" src="https://raw.githubusercontent.com/xyz-rafael-xyz/roguard-child-safety/main/media/roguard-v10-reel-loop.webp" alt="RoGuard 10.0 orange-and-black animated reel: the reused Gemma 4 body, four RBF heads, a guarded review decision, and recorded synthetic comparisons.">
+    <img width="960" src="https://raw.githubusercontent.com/xyz-rafael-xyz/roguard-child-safety/main/media/roguard-v10-reel-30fps.webp" alt="RoGuard 10.0 orange-and-black animated reel: the reused Gemma 4 body, four RBF heads, a guarded review decision, and recorded synthetic comparisons.">
   </a>
 </p>
 
