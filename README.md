@@ -29,17 +29,17 @@
 
 <p align="center">
   <a href="https://github.com/xyz-rafael-xyz/roguard-child-safety">
-    <img width="960" src="https://raw.githubusercontent.com/xyz-rafael-xyz/roguard-child-safety/main/media/roguard-v10-demo-apple-loop.gif" alt="RoGuard 10.0 animated walkthrough: a frozen v9 backbone, two feature views, guarded Romanian and Ukrainian review, and recorded synthetic comparisons.">
+    <img width="960" src="https://raw.githubusercontent.com/xyz-rafael-xyz/roguard-child-safety/main/media/roguard-v10-reel-loop.webp" alt="RoGuard 10.0 orange-and-black animated reel: the reused Gemma 4 body, four RBF heads, a guarded review decision, and recorded synthetic comparisons.">
   </a>
 </p>
 
 <p align="center">
-  <sub>27 seconds · illustrated v10 model path and recorded outputs on fictional messages</sub><br>
-  <a href="https://github.com/xyz-rafael-xyz/roguard-child-safety/releases/download/v10.0.0/roguard-v10-demo-apple.mp4">Video with playback controls</a>
+  <sub>45 seconds · looping v10 visual summary based on fictional messages</sub><br>
+  <a href="https://github.com/xyz-rafael-xyz/roguard-child-safety/releases/download/v10.0.0/roguard-v10-reel.mp4">Full video with audio</a>
   &nbsp; · &nbsp;
-  <a href="https://raw.githubusercontent.com/xyz-rafael-xyz/roguard-child-safety/main/media/roguard-v10-demo-apple-poster.png">Still image</a>
+  <a href="https://raw.githubusercontent.com/xyz-rafael-xyz/roguard-child-safety/main/media/roguard-v10-reel-poster.png">Still image</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/xyz-rafael-xyz/roguard-child-safety/blob/main/docs/V10_DEMO_VIDEO.md">Transcript</a>
+  <a href="https://github.com/xyz-rafael-xyz/roguard-child-safety/blob/main/docs/V10_REEL.md">Reel notes &amp; evidence</a>
 </p>
 
 ## What I'm building
